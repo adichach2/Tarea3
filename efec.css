@@ -1,0 +1,56 @@
+body{
+	background-image:url("fon.jpg");
+}
+h1{
+color:blue;
+font-family: Broadway;
+height: 110px; 
+width: 100%;
+}
+h2{
+color:orange;
+font-family: Bradley Hand ITC;
+height: 5px; 
+width: 100%;
+}
+
+h3{
+color:white;
+font-family: Goudy Stout;
+font-size: 50;
+width: 100%;
+}
+
+
+
+a{
+color:purple;
+font-family: Stencil;
+height: 15px; 
+width: 100%;
+}
+
+i{
+color:blue;
+font-family: Britannic Bold;
+height: 15px; 
+width: 100%;
+}
+
+u{
+color:pink;
+font-family: Forte;
+height: 15px; 
+width: 100%;
+}
+p{
+color: green;
+font-family: Goudy Stout;
+font-size: 15px;
+}
+
+ul{
+  color:pink;
+  font-family: Impact;
+  font-size:30px;
+}
